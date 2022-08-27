@@ -206,7 +206,7 @@ authenticate.addEventListener('click', () => {
 
 
 /* 
-Thank you for watching harsh singh card generator and validator program
+Thank you for watching ankit kumar verma card generator and validator program
 Some thing that i use is luhn check steps below ---
 1. Go from right to left with the help of making nested loop
 2. every other number multiply by two
@@ -235,7 +235,7 @@ input.addEventListener("keyup", function(event) {
 
 Thanks and have a great day
 
-      regards
-""" Harsh Singh """
+      Regards
+""" Ankit Kumar Verma """
 
 */
